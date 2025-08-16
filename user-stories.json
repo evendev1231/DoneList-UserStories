@@ -1,0 +1,30 @@
+{
+  "stories": [
+    {
+      "id": "1",
+      "title": "How Tiny Tasks Changed My Life",
+      "summary": "I used to feel overwhelmed by my endless to-do list. Everything felt urgent, so I did nothing. Then I discovered the power of breaking tasks into the smallest possible steps.",
+      "content": "I used to feel overwhelmed by my endless to-do list. Everything felt urgent, so I did nothing. Then I discovered the power of breaking tasks into the smallest possible steps.\n\nAt first, it felt silly to write down things like 'Open laptop' or 'Write one sentence.' But DoneList made it easy to focus on just the next action. Every time I checked off a tiny task, I felt a little spark of motivation.\n\nInstead of dreading big projects, I started to enjoy the process. I realized that progress is made one small step at a time. Now, I use DoneList to break down everything—from work projects to daily chores. My productivity has soared, and my stress has dropped.\n\nIf you're struggling to get started, try making your tasks as small as possible. The satisfaction of checking them off will keep you moving forward!",
+      "category": "productivity",
+      "date": "2024-08-16"
+    },
+    {
+      "id": "2",
+      "title": "From Procrastination to Progress",
+      "summary": "Procrastination used to rule my life. I'd put off important things for weeks. DoneList helped me turn things around by making every step feel achievable.",
+      "content": "Procrastination used to rule my life. I'd put off important things for weeks. DoneList helped me turn things around by making every step feel achievable.\n\nI read about the 'next action' method and decided to try it. Instead of writing 'Finish report,' I wrote 'Open document,' 'Write one sentence,' 'Save file.'\n\nThe app's minimal design kept me focused. Each time I checked off a step, I felt a sense of accomplishment. The positive feedback loop made me want to keep going.\n\nNow, I'm more consistent and less stressed. My advice: don't be afraid to make your tasks tiny. Progress is progress, no matter how small.",
+      "category": "motivation",
+      "date": "2024-08-15"
+    },
+    {
+      "id": "3",
+      "title": "The Power of Positive Feedback",
+      "summary": "I never realized how motivating a simple checkmark could be. DoneList's instant feedback turned my daily routine into a series of small wins.",
+      "content": "I never realized how motivating a simple checkmark could be. DoneList's instant feedback turned my daily routine into a series of small wins.\n\nBefore using the app, I'd often feel stuck and unproductive. But when I started breaking my goals into micro-tasks, everything changed.\n\nNow, my list is full of actions like 'Stand up,' 'Drink water,' 'Reply to one email.' Each time I check something off, I feel a little more energized.\n\nThe best part? The momentum builds. Some days, I finish more than I ever thought possible. If you want to beat procrastination, start small and celebrate every win!",
+      "category": "habits",
+      "date": "2024-08-14"
+    }
+  ],
+  "lastUpdated": "2024-08-16",
+  "version": "1.0"
+}
