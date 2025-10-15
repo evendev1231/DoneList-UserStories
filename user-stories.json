@@ -24,14 +24,6 @@
       "category": "habits",
       "date": "2024-08-14"
     },
-    {
-      "id": "4",
-      "title": "Test Story",
-      "summary": "This is a test story to verify dynamic updates are working correctly.",
-      "content": "This is a test story to verify that the dynamic update functionality is working correctly.\n\nWhen you see this story in the app, it means the JSON parsing is working and the app can successfully fetch and display new content from GitHub.\n\nThis demonstrates that the User Stories feature can be updated without requiring an app update, making it easy to add new community stories and keep the content fresh.",
-      "category": "test",
-      "date": "2024-08-16"
-    }
   ],
   "lastUpdated": "2024-08-16",
   "version": "1.0"
