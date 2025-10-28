@@ -1,5 +1,6 @@
 {
-  "stories": [
+  "stories":
+  [
     {
       "id": "1",
       "title": "How Tiny Tasks Changed My Life",
@@ -27,28 +28,28 @@
     {
       "id": "4",
       "title": "A Little Tool for My Brain Dump",
-      "summary": "I'd once read that writing a brain dump can ease anxiety when you're feeling overwhelmed.",
-      "content": "A friend of mine asked me to test a little app she was working on. We're both champion procrastinators, so of course I said yes.\n\nI'd once read that writing a "brain dump" can ease anxiety when you're feeling overwhelmed. So I started using her Done List for exactly that.\n\nWhenever I felt stressed, I'd just start logging everything I'd done: Got out of bed. Brushed my teeth. Drank a glass of water. Replied to one email... I'd check them off as I went.\n\nIt's surprisingly powerful. Watching that list grow made me realize, "Hey, I am getting things done." The mental weight just started to feel lighter.\n\nSometimes the simplest solutions are the most effective. You just need to see your own progress.",
+      "summary": "When I felt overwhelmed, I used a Done List as a simple brain dump—and the weight got lighter.",
+      "content": "A friend of mine asked me to test a little app she was working on. We're both champion procrastinators, so of course I said yes.\n\nI'd once read that writing a \"brain dump\" can ease anxiety when you're feeling overwhelmed. So I started using her Done List for exactly that.\n\nWhenever I felt stressed, I'd just start logging everything I'd done: Got out of bed. Brushed my teeth. Drank a glass of water. Replied to one email... I'd check them off as I went.\n\nIt's surprisingly powerful. Watching that list grow made me realize, \"Hey, I am getting things done.\" The mental weight just started to feel lighter.\n\nSometimes the simplest solutions are the most effective. You just need to see your own progress.",
       "category": "productivity",
-      "date": "2024-10-14"
+      "date": "2025-10-28"
     },
     {
       "id": "5",
       "title": "My 20-Year Struggle with ADHD and the Tool That Saved Me",
-      "summary": "I decided to work with my brain, not against it.",
-      "content": "I'm the developer behind Done List. For nearly two decades, my life with ADHD was defined by procrastination. Starting tasks felt impossible, and my brain would shut down at any slightly complex goal. I'd often lose interest right after pushing through the hardest part of a project, leaving everything half-finished.\n\nMy academic life was a series of last-minute scrambles. I jumped between jobs, and years after graduating, I was still in entry-level roles. I saw the disappointment in others' eyes, and I felt it in myself. I was convinced I would never accomplish anything.\n\nDiscovering ADHD was my lifeline. For the first time, I had a framework for my struggles. I decided to work with my brain, not against it.\n\nAfter countless attempts, I found what worked: tracking what I'd done. I broke down daunting tasks into "one-second steps" I couldn't refuse—like "open laptop." Every checkmark gave me a small hit of accomplishment. That momentum pushed me to start, and to continue.\n\nI even built this app by breaking it down into hundreds of tiny, manageable tasks.This method has kept me moving forward for seven years. If you see yourself in my story, I hope Done List can be your lifeline, too.",
-      "category": "productivity",
-      "date": "2024-10-14"
+      "summary": "Breaking work into one-second steps—and checking them off—kept me moving forward for years.",
+      "content": "I'm Even, the developer behind Done List. For nearly two decades, my life with ADHD was defined by procrastination. Starting tasks felt impossible, and my brain would shut down at any slightly complex goal. I'd often lose interest right after pushing through the hardest part of a project, leaving everything half-finished.\n\nMy academic life was a series of last-minute scrambles. I jumped between jobs, and years after graduating, I was still in entry-level roles. I saw the disappointment in others' eyes, and I felt it in myself. I was convinced I would never accomplish anything.\n\nDiscovering ADHD was my lifeline. For the first time, I had a framework for my struggles. I decided to work with my brain, not against it.\n\nAfter countless attempts, I found what worked: tracking what I'd done. I broke down daunting tasks into \"one-second steps\" I couldn't refuse—like \"open laptop.\" Every checkmark gave me a small hit of accomplishment. That momentum pushed me to start, and to continue.\n\nI even built this app by breaking it down into hundreds of tiny, manageable tasks.\n\nThis method has kept me moving forward for seven years. If you see yourself in my story, I hope Done List can be your lifeline, too.",
+      "category": "motivation",
+      "date": "2025-10-28"
     },
     {
       "id": "6",
-      "title": "How I Hack My Motivation",
-      "summary": "Why is it easy to binge potato chips, but not to study?",
-      "content": "I remember a brilliant Quora question - Why is it easy to binge potato chips, but not to study?\n\nOne answer was instant gratification. Every chip is a tiny reward. With studying, the reward is distant and uncertain.\n\nt got me thinking: could I create instant gratification for the things that matter?\n\nMy sister—the developer of this app—suggested I keep a Done List. She told me that every time you check off a completed task, you're giving yourself a deliberate pat on the back.\n\nSo I tried it.Read 5 pages. Check.Wrote one paragraph. Check.\n\nThose self-administered checkmarks were my "potato chips." They kept me going, creating a chain of small wins until the real-world results finally came.\n\nYou can't always control when the world rewards you, but you can always reward yourself.\n\nNow, my sister has built this simple tool around that very idea. If you're looking for a way to keep going, start here.",
-      "category": "motivation",
-      "date": "2024-10-14"
-    },
+      "title": "The Potato Chip Principle: How I Hack My Motivation",
+      "summary": "I gave myself deliberate mini-rewards: every tiny checkmark became my \"potato chip.\"",
+      "content": "I remember a brilliant Quora question: \"Why is it easy to binge potato chips, but not to study?\"\n\nThe top answer was instant gratification. Every chip is a tiny reward. With studying, the reward is distant and uncertain.\n\nIt got me thinking: could I create instant gratification for the things that matter?\n\nMy sister—the developer of this app—suggested I keep a Done List. She told me, \"Every time you check off a completed task, you're giving yourself a deliberate pat on the back.\"\n\nSo I tried it.\n\n· \"Read 5 pages.\" Check.\n· \"Wrote one paragraph.\" Check.\n\nThose self-administered checkmarks were my \"potato chips.\" They kept me going, creating a chain of small wins until the real-world results finally came.\n\nYou can't always control when the world rewards you, but you can always reward yourself.\n\nNow, my sister has built this simple tool around that very idea. If you're looking for a way to keep going, start here.",
+      "category": "habits",
+      "date": "2025-10-28"
+    } 
   ],
   "lastUpdated": "2024-10-28",
-  "version": "1.0"
+  "version": "1.1"
 }
